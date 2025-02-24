@@ -1,4 +1,4 @@
-📊** Supermarket Market Basket Analysis: Unlock Hidden Customer Insights 🛒
+**📊 Supermarket Market Basket Analysis: Unlock Hidden Customer Insights 🛒
 Leverage Data Science to Boost Sales & Customer Experience**
 
 **🔍 Overview**
